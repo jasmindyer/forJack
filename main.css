@@ -1,9 +1,16 @@
+/*
+    I have left your original code, but simply commented it out, this is so you can compare my code to yours!
+    The comment tells the computer not to run the code, but allows you to leave it in to review later if you want to keep it.
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400&display=swap');
 body{
     background-color: bisque;
 }
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400&display=swap'); */
 p {
-    font-family: Inconsolata;
+    /* font-family: Inconsolata; */
+    font-family: 'Inconsolata', monospace;
     text-align: center;
     color: coral;
     font-size: 50px;
